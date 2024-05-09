@@ -1,47 +1,30 @@
-.hero{
-    
-    width: 100vw;
-    min-height: 100vh; 
-    background-image: url("/static/images/test.png");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center center;
-    font-size: 110px;
-    position: relative;
-}
 
-.hero::after{
-    content: "";
-    display: block;
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    top: 0;
-    left: 0;
-    background: linear-gradient(to bottom,  rgba(0,0,0,0) 0%,rgba(0,0,0,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+@import "font.css";
+@import "logo.css";
+@import "hero.css";
+@import "menunavigazione.css";
+@import "header.css";
+
+
+.conloghi img{
+  width: 25px;
+  height: 25px;
+  background-color: blueviolet;
+  margin-left: 35px;
 }
 
 
 
-
-.header{
-    display: flex;
-    flex-direction: row; 
-    justify-content: space-between;
-    margin: 10px;
-  }
-
-
-.menuWrapper ul{
-    list-style: none;
-    padding-top: 10px;
-    display: flex;
-    color: white;
-
-  }
-ul{
-    display: flex;
-    justify-content: space-between;
-    font-size: 20px;
-    color: white;
+.conloghi{
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+  background-color: rgb(9, 255, 0);
+  margin-right: 35px;
+  
+  
+  
 }
+
+
