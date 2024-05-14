@@ -1,0 +1,25 @@
+<div class="conloghi">
+          <div class="loghi">
+            <img src="static/images/instagram.png">
+            <img src="static/images/facebook.png">
+            <img src="static/images/youtube.png">
+          </div>
+        </div>
+
+
+.conloghi img{
+         width: 25px;
+         height: 25px;
+         background-color: blueviolet;
+            margin-left: 35px;
+}
+          
+          
+          
+          .conloghi{
+            display: flex;
+            flex-direction: row;
+            justify-content: end;
+            background-color: rgb(9, 255, 0);
+            margin-right: 35px;
+          }
