@@ -1,0 +1,13 @@
+
+h1{
+    color:white;
+    font-size: 80px;
+    font-family: Merriweather;
+    border-top: solid;
+    border-bottom: solid;
+    border-bottom-color: black;
+    border-top-color: black;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin: 0px;
+  }

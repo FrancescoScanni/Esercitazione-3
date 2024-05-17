@@ -23,3 +23,11 @@
             background-color: rgb(9, 255, 0);
             margin-right: 35px;
           }
+
+
+
+
+
+          <img src="static/images/instagram.png">
+          <img src="static/images/facebook.png">
+           <img src="static/images/youtube.png" href="google.com">
