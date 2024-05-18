@@ -2,9 +2,8 @@
 .conloghi img{
     width: 25px;
     height: 25px;
-    
     margin-left: 70px;
-    
+    margin-top: 280px;
     
      
   }
@@ -15,5 +14,8 @@
     justify-content: end;
     
     margin-right: 35px;
-    margin-top: 80px;
+    padding-bottom: 30px;
+
+    
+    
 }
