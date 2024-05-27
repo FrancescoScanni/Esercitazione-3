@@ -2,8 +2,8 @@
 .conloghi img{
     width: 25px;
     height: 25px;
-    margin-left: 70px;
-    margin-top: 280px;
+    margin-left: 55px;
+    margin-top: 180px;
     
      
   }
@@ -12,9 +12,8 @@
     display: flex;
     flex-direction: row;
     justify-content: end;
-    
     margin-right: 35px;
-    padding-bottom: 30px;
+    
 
     
     
